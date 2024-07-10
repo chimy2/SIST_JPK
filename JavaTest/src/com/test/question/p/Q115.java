@@ -1,8 +1,8 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 
-public class Q115P {
+public class Q115 {
 //	파일디렉토리조작: 파일 삭제
 	public static void main(String[] args) {
 //		요구사항] 파일의 크기가 0byte인 파일만 삭제하시오.
@@ -14,7 +14,7 @@ public class Q115P {
 //		총 34개의 파일을 삭제했습니다.
 		
 		String path = System.getProperty("user.dir") + "\\src";
-		String[] folders = Q115P.class.getPackageName().split("\\.");
+		String[] folders = Q115.class.getPackageName().split("\\.");
 		
 		for(String folder : folders) {
 			path += "\\" + folder;

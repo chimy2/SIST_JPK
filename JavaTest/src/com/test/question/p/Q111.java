@@ -1,9 +1,9 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 import java.util.Scanner;
 
-public class Q111P {
+public class Q111 {
 //	파일디렉토리조작: 확장자 검색
 	public static void main(String[] args) {
 //		요구사항] 지정한 폴더의 특정 파일(확장자)만을 출력하시오.

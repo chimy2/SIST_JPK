@@ -1,4 +1,4 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Q112P {
+public class Q112 {
 //	파일디렉토리조작: 파일 이동
 	public static void main(String[] args) {
 //		요구사항] 지정한 파일을 다른 폴더로 이동하고, 이동한 파일과 동일한 파일명의 파일이 존재하는 경우 중복 처리하시오.

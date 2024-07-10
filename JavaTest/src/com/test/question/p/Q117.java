@@ -1,8 +1,8 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 
-public class Q117P {
+public class Q117 {
 //	파일디렉토리조작: 폴더 삭제
 	private static int folderCount;
 	private static int fileCount;
@@ -20,7 +20,7 @@ public class Q117P {
 //		삭제된 폴더는 3개이고, 파일은 6개입니다.
 		
 		String path = System.getProperty("user.dir") + "\\src";
-		String[] folders = Q117P.class.getPackageName().split("\\.");
+		String[] folders = Q117.class.getPackageName().split("\\.");
 		
 		for(String folder : folders) {
 			path += "\\" + folder;
@@ -34,7 +34,7 @@ public class Q117P {
 			}
 			System.out.println("폴더를 삭제했습니다");
 			System.out.printf("삭제된 폴더는 %,d개이고, 파일은 %,d개입니다.", 
-					Q117P.folderCount, Q117P.fileCount);
+					Q117.folderCount, Q117.fileCount);
 		} else {
 			System.out.println("해당 경로가 존재하지 않습니다.");
 		}

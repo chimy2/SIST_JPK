@@ -1,9 +1,9 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 import java.util.Arrays;
 
-public class Q113P {
+public class Q113 {
 //	파일디렉토리조작: 일련번호
 	public static void main(String[] args) {
 //		요구사항] 음악 파일이 100개 있다. 파일명 앞에 일련 번호를 붙이시오.
@@ -20,7 +20,7 @@ public class Q113P {
 //		[100]花요일 (Blooming Day) - EXO-CBX (첸백시).mp3
 		
 		String path = System.getProperty("user.dir");	//C:\class\code\java\JavaTest
-		String[] folders = Q113P.class.getPackageName().split("\\.");
+		String[] folders = Q113.class.getPackageName().split("\\.");
 		
 		path += "\\src";
 		

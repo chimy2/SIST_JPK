@@ -1,9 +1,9 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 import java.util.HashMap;
 
-public class Q114P {
+public class Q114 {
 //	파일디렉토리조작: 확장자 카운트
 	public static void main(String[] args) {
 //		요구사항] 이미지 파일이 있다. 확장자별로 파일이 몇개 있는지 세시오.
@@ -19,7 +19,7 @@ public class Q114P {
 //		*.png: 3개 
 		
 		String path = System.getProperty("user.dir") + "\\src\\";
-		String[] folders = Q114P.class.getPackageName().split("\\.");
+		String[] folders = Q114.class.getPackageName().split("\\.");
 		
 		for(String folder : folders) {
 			path += "\\" + folder;

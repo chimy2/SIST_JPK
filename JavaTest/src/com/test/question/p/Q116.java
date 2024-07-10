@@ -1,8 +1,8 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 
-public class Q116P {
+public class Q116 {
 //	파일디렉토리조작: 중복 파일
 	public static void main(String[] args) {
 //		요구사항] MusicA 폴더와 MusicB 폴더를 서로 비교해서 양쪽 폴더에 모두 존재하는 파일만을 출력하시오.
@@ -19,7 +19,7 @@ public class Q116P {
 		
 		String path = System.getProperty("user.dir") + "\\src";
 		
-		String[] folders = Q116P.class.getPackageName().split("\\.");
+		String[] folders = Q116.class.getPackageName().split("\\.");
 		
 		for(String folder : folders) {
 			path += "\\" + folder;

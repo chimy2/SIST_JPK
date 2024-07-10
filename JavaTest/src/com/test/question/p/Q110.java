@@ -1,9 +1,9 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 import java.util.Scanner;
 
-public class Q110P {
+public class Q110 {
 //	파일디렉토리조작: 파일 정보
 	public static void main(String[] args) {
 //		요구사항] 파일의 경로를 입력받아 파일 정보를 출력하시오.

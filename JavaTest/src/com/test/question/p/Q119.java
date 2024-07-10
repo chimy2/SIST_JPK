@@ -1,8 +1,8 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 
-public class Q119P {
+public class Q119 {
 //	파일디렉토리조작: 분류 이동
 	public static void main(String[] args) {
 //		요구사항] 아래의 조건에 따라 파일을 폴더별로 분류/이동하시오.

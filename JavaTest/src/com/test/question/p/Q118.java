@@ -1,9 +1,9 @@
-package com.test.question;
+package com.test.question.p;
 
 import java.io.File;
 import java.util.ArrayList;
 
-public class Q118P {
+public class Q118 {
 //	파일디렉토리조작: 정렬
 	public static void main(String[] args) {
 //		요구사항] 폴더 내의 모든 파일들을 찾아 크기를 비교하고, 크기가 큰 순으로 정렬하시오.
