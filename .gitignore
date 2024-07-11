@@ -45,8 +45,7 @@ file/
 */.classpath/
 */.project/
 JavaTest/src/.metadata
-JavaTest/src/**.txt
-JavaTest/src/
+JavaTest/src/*.txt
 JavaTest/src/*.java
 */JavaTest/.settings/
 */JavaTest/bin/
