@@ -18,12 +18,10 @@ Hello.class
 */src/com/test/question/operator
 */src/com/test/question/string
 */src/com/test/question/*.java
-
 */src/com/test/temp/
 file/
 .metadata/
 */.settings/
-
 
 #김현수
 
@@ -31,13 +29,30 @@ file/
 내 필기.txt
 240625.txt
 */src/com/test/hans
-*/src/com/test/java
 */src/com/test/memo
 */src/com/test/question2
 */src/com/test/request
-*/src/com/test/temp
-*/src/com/test/question/Q066.java
+
 JavaTest/src/com/test/question/*.java
 
+#전상수
 
+.metadata/
+Exercise/
+file/
+*/.settings
+*/bin
+*/.classpath/
+*/.project/
+JavaTest/src/.metadata
+JavaTest/src/**.txt
+JavaTest/src/*.java
+*/JavaTest/.settings/
+*/JavaTest/bin/
+*/JavaTest/.classpath
+*/java/JavaTest/.project
+JavaTest/src/com/test/exercise/
+JavaTest/src/com/test/java/
+JavaTest/src/com/test/self/
+JavaTest/src/com/test/temp/
 
