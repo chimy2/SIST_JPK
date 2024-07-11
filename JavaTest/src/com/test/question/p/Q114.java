@@ -18,14 +18,12 @@ public class Q114 {
 //		*.jpg: 5개 
 //		*.png: 3개 
 		
-		String path = System.getProperty("user.dir") + "\\src\\";
-		String[] folders = Q114.class.getPackageName().split("\\.");
+		String path = System.getProperty("user.dir");
 		
-		for(String folder : folders) {
-			path += "\\" + folder;
-		}
+		path += "\\src\\" + Q114.class.getPackageName().replace(".", "\\");
+		path += "\\resource\\확장자별 카운트";
 		
-		File dir = new File(path + "\\resource\\확장자별 카운트");
+		File dir = new File(path);
 		HashMap<String, Integer> extCount = new HashMap<>();
 		
 		if(dir.exists()) {

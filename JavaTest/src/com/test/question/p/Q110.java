@@ -18,7 +18,7 @@ public class Q110 {
 //		파일 크기 : 45B 
 		
 //		입력2
-//		파일 경로 : C:\movie\SpriderMan.mp4 
+//		파일 경로 :1 C:\movie\SpriderMan.mp4 
 
 //		출력2
 //		파일명 : SpriderMan.mp4
