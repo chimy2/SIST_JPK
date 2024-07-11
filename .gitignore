@@ -13,3 +13,16 @@ Hello.class
 file/
 .metadata/
 */.settings/
+
+
+#김현수
+
+필기.txt
+내 필기.txt
+240625.txt
+*/src/com/test/hans
+*/src/com/test/memo
+*/src/com/test/question2
+*/src/com/test/request
+
+JavaTest/src/com/test/question/*.java
