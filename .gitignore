@@ -48,6 +48,7 @@ file/
 JavaTest/src/.metadata
 JavaTest/src/**.txt
 JavaTest/src/*.java
+JavaTest/dat/
 */JavaTest/.settings/
 */JavaTest/bin/
 */JavaTest/.classpath
@@ -56,4 +57,3 @@ JavaTest/src/com/test/exercise/
 JavaTest/src/com/test/java/
 JavaTest/src/com/test/self/
 JavaTest/src/com/test/temp/
-
