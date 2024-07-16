@@ -1,4 +1,4 @@
-package com.test.question.P;
+package com.test.question.p;
 
 import java.io.File;
 import java.util.Scanner;
