@@ -20,14 +20,8 @@ public class Q113 {
 //		[100]花요일 (Blooming Day) - EXO-CBX (첸백시).mp3
 		
 		String path = System.getProperty("user.dir");	//C:\class\code\java\JavaTest
-		String[] folders = Q113.class.getPackageName().split("\\.");
 		
-		path += "\\src";
-		
-		for(String folder : folders) {
-			path += "\\" + folder;
-		}
-		
+		path += "\\src\\" + Q113.class.getPackageName().replace(".", "\\");
 		path += "\\resource\\음악 파일\\Music";
 		
 		File dir = new File(path);

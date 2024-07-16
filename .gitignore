@@ -7,21 +7,22 @@ Hello.class
 */src/question/
 */src/com/lesson/
 */src/com/test/java/
-*/src/com/test/question/array
-*/src/com/test/question/classproblem
-*/src/com/test/question/collection
-*/src/com/test/question/condition
-*/src/com/test/question/datetime
-*/src/com/test/question/file
-*/src/com/test/question/loop
-*/src/com/test/question/method
-*/src/com/test/question/operator
-*/src/com/test/question/string
-*/src/com/test/question/*.java
+JavaTest/src/com/test/question/array
+JavaTest/src/com/test/question/classproblem
+JavaTest/src/com/test/question/collection
+JavaTest/src/com/test/question/condition
+JavaTest/src/com/test/question/datetime
+JavaTest/src/com/test/question/file
+JavaTest/src/com/test/question/loop
+JavaTest/src/com/test/question/method
+JavaTest/src/com/test/question/operator
+JavaTest/src/com/test/question/string
+JavaTest/src/com/test/question/*.java
 */src/com/test/temp/
 file/
 .metadata/
 */.settings/
+JavaTest/dat/
 
 #김현수
 
@@ -47,6 +48,7 @@ file/
 JavaTest/src/.metadata
 JavaTest/src/**.txt
 JavaTest/src/*.java
+JavaTest/dat/
 */JavaTest/.settings/
 */JavaTest/bin/
 */JavaTest/.classpath
@@ -55,4 +57,3 @@ JavaTest/src/com/test/exercise/
 JavaTest/src/com/test/java/
 JavaTest/src/com/test/self/
 JavaTest/src/com/test/temp/
-

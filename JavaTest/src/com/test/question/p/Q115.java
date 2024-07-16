@@ -13,14 +13,12 @@ public class Q115 {
 //		출력
 //		총 34개의 파일을 삭제했습니다.
 		
-		String path = System.getProperty("user.dir") + "\\src";
-		String[] folders = Q115.class.getPackageName().split("\\.");
+		String path = System.getProperty("user.dir");
 		
-		for(String folder : folders) {
-			path += "\\" + folder;
-		}
+		path += "\\src\\" + Q115.class.getPackageName().replace(".", "\\");
+		path += "\\resource\\파일 제거";
 		
-		File dir = new File(path + "\\resource\\파일 제거");
+		File dir = new File(path);
 		
 		if(dir.exists()) {
 			File[] list = dir.listFiles();

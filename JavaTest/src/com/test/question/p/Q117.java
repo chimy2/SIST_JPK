@@ -19,14 +19,12 @@ public class Q117 {
 //		폴더를 삭제했습니다. 
 //		삭제된 폴더는 3개이고, 파일은 6개입니다.
 		
-		String path = System.getProperty("user.dir") + "\\src";
-		String[] folders = Q117.class.getPackageName().split("\\.");
+		String path = System.getProperty("user.dir");
 		
-		for(String folder : folders) {
-			path += "\\" + folder;
-		}
+		path += "\\src\\" + Q117.class.getPackageName().replace(".", "\\");
+		path += "\\resource\\폴더 삭제\\\\delete";
 		
-		File dir = new File(path + "\\resource\\폴더 삭제\\delete");
+		File dir = new File(path);
 		
 		if(dir.exists()) {
 			for(File file : dir.listFiles()) {

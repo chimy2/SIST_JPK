@@ -1,0 +1,353 @@
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:54:38.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="fv6f6yObSeQHNWEbb4qy" version="24.6.5" type="device">
+  <diagram name="Page-1" id="LSmw_QEp7wmHTSQ2WaIC">
+    <mxGraphModel dx="2891" dy="2327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-1" target="KbpGXaWu8zddsX8kKmAL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="230" />
+              <mxPoint x="225" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KbpGXaWu8zddsX8kKmAL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="130" as="sourcePoint" />
+            <mxPoint x="680" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="130" />
+              <mxPoint x="690" y="265" />
+              <mxPoint x="680" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-1" target="KbpGXaWu8zddsX8kKmAL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-1" target="KbpGXaWu8zddsX8kKmAL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-1" target="KbpGXaWu8zddsX8kKmAL-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-1" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Main Menu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-5" target="KbpGXaWu8zddsX8kKmAL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-5" target="KbpGXaWu8zddsX8kKmAL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2. 기록&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;3. 종료&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-20" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-9" target="KbpGXaWu8zddsX8kKmAL-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1. 게임 시작&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-12" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strike&gt;1.최근기록&lt;/strike&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strike&gt;(나)&lt;/strike&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="410" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-15" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;2. 명예의 전당&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;(우승 기록만)&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;(전체)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="410" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-17" target="KbpGXaWu8zddsX8kKmAL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-17" target="KbpGXaWu8zddsX8kKmAL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-17" target="KbpGXaWu8zddsX8kKmAL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-17" target="KbpGXaWu8zddsX8kKmAL-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="-140.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-17" target="KbpGXaWu8zddsX8kKmAL-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="-220.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-17" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;5. 환경설정&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;(다 옵션)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-70" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1.&amp;nbsp; 언어설정&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-300" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2. 폰트 설정&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-300" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;3. 만든 사람들&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-300" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;4. 디스코드&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-307.5" width="205" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-35" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;4. 게임 설명서&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="60" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-37" target="KbpGXaWu8zddsX8kKmAL-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="-440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-37" target="KbpGXaWu8zddsX8kKmAL-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="787.5" y="-420.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-37" target="KbpGXaWu8zddsX8kKmAL-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="-410.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;5. 개발자 사주기 버튼&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="-310" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-41" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;피자&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-43" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;치킨&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="-470.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-45" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;??&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-460.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-48" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strike&gt;1. 유저 아이디&lt;/strike&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strike&gt;2. 날짜&lt;/strike&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strike&gt;3. 단식/복식&lt;/strike&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strike&gt;4. 승/패&lt;/strike&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-282.5" y="570" width="185" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=30;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-12" target="KbpGXaWu8zddsX8kKmAL-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;테니스 프로젝트&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;테니스 경기의 점수를 계산하고 기록하는 객체 지향 프로그램을 개발하는 것입니다. 이 과제를 통해 클래스 설계, 인터페이스 활용, 파일 입출력, 그리고 테니스 규칙의 구현 능력을 향상시킬 수 있습니다.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-472.5" y="-620" width="922.5" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;힘: +3&lt;/font&gt;&lt;div style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;체력:&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;정신력:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;필살기:&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="700" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-78" target="KbpGXaWu8zddsX8kKmAL-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="689" y="1000" />
+              <mxPoint x="575" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-78" target="KbpGXaWu8zddsX8kKmAL-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1185" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="689" y="1000" />
+              <mxPoint x="895" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-78" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;캐릭터 선택 창&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="830" width="327.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-86" target="KbpGXaWu8zddsX8kKmAL-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="1230" />
+              <mxPoint x="580" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-86" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1. 시작하기&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1030" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-90" target="KbpGXaWu8zddsX8kKmAL-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="1060" />
+              <mxPoint x="1105" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-90" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;2.뒤로가기&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1030" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-114" target="KbpGXaWu8zddsX8kKmAL-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-114" target="KbpGXaWu8zddsX8kKmAL-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-114" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;1. 단식&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-117" target="KbpGXaWu8zddsX8kKmAL-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1615" y="355" />
+              <mxPoint x="1650" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-117" target="KbpGXaWu8zddsX8kKmAL-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1615" y="355" />
+              <mxPoint x="1790" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-117" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;2. 복식&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-119" target="KbpGXaWu8zddsX8kKmAL-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="495" />
+              <mxPoint x="1577" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-119" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1P&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-121" target="KbpGXaWu8zddsX8kKmAL-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-121" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;2P&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-123" target="KbpGXaWu8zddsX8kKmAL-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-123" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1P&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-125" target="KbpGXaWu8zddsX8kKmAL-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-125" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;2P&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-128" target="KbpGXaWu8zddsX8kKmAL-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="785" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1584" y="705" />
+              <mxPoint x="1470" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-128" target="KbpGXaWu8zddsX8kKmAL-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2080" y="775" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1584" y="705" />
+              <mxPoint x="1790" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-128" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;캐릭터 선택 창&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="535" width="327.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-129" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1. 시작하기&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="735" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-131" target="KbpGXaWu8zddsX8kKmAL-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2000" y="765" />
+              <mxPoint x="2000" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-131" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;2.뒤로가기&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="735" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-132" target="KbpGXaWu8zddsX8kKmAL-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="712.5" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="689" y="670" />
+              <mxPoint x="689" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-132" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1.단식/복식&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;2.세트수&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;3.플레이어수&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="400" width="425" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-137" target="KbpGXaWu8zddsX8kKmAL-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-137" target="KbpGXaWu8zddsX8kKmAL-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-137" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;1. 스킬&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;a.서브&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b.포핸드&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;c.백핸드&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d.발리 (필살기)&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;e.하프발리&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;f.스매시&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;g.드롭샷&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;h. 로브&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;2. 게임 정보 (자동 출력)&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1200" width="530" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-139" target="KbpGXaWu8zddsX8kKmAL-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-139" target="KbpGXaWu8zddsX8kKmAL-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbpGXaWu8zddsX8kKmAL-139" target="KbpGXaWu8zddsX8kKmAL-146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-139" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;점수 확인&lt;/font&gt;&lt;div style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;이름 입력 (Y/N)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1570" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-140" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;종료&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1800" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KbpGXaWu8zddsX8kKmAL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-650" y="250" as="targetPoint" />
+            <mxPoint x="-160" y="1790.1428571428569" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-550" y="1790" />
+              <mxPoint x="-550" y="330" />
+              <mxPoint x="-260" y="330" />
+              <mxPoint x="-260" y="210" />
+              <mxPoint x="240" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-143" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;메인메뉴&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1615" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-146" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;다시하기&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1615" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KbpGXaWu8zddsX8kKmAL-149" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;1.&amp;nbsp; 기본 게임 정보&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;- 몇 게임&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;- 몇 세트&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;- 현재 점수&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;- 듀스체크( )&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;-&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1160" width="280" height="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

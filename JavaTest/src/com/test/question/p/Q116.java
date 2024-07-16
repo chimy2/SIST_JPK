@@ -17,15 +17,11 @@ public class Q116 {
 //		SoulMate (Feat. 아이유) - 지코 (ZICO).mp3 
 //		..
 		
-		String path = System.getProperty("user.dir") + "\\src";
+		String path = System.getProperty("user.dir");
 		
-		String[] folders = Q116.class.getPackageName().split("\\.");
-		
-		for(String folder : folders) {
-			path += "\\" + folder;
-		}
-		
+		path += "\\src\\" + Q116.class.getPackageName().replace(".", "\\");
 		path += "\\resource\\동일 파일";
+		
 		File dir1 = new File(path + "\\MusicA");
 		File dir2 = new File(path + "\\MusicB");
 		
