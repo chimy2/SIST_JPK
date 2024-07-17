@@ -7,7 +7,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/data-0.1.1.jar"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="lib/myutil-1.0.0.jar"/>
 	<classpathentry kind="lib" path="lib/jfiglet-0.0.8.jar"/>
+=======
+	<classpathentry kind="lib" path="lib/jfiglet-0.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/myutil-1.0.0.jar"/>
+>>>>>>> ecf3e4957cf15ef80f07fea5f7842ef61699ea2b
 	<classpathentry kind="output" path="bin"/>
 </classpath>
